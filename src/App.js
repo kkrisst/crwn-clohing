@@ -11,8 +11,6 @@ const HatsPage = () => (
   </div>
 )
 
-const alma = 1;
-
 function App() {
   return (
     <div>
